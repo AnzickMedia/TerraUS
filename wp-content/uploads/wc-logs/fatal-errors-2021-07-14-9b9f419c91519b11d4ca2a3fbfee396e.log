@@ -1,0 +1,18 @@
+2021-07-14T18:58:34+00:00 CRITICAL Uncaught ValueError: strrpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack) in C:\xampp\htdocs\terra\wp-content\plugins\revslider\includes\functions.class.php:387
+Stack trace:
+#0 C:\xampp\htdocs\terra\wp-content\plugins\revslider\includes\functions.class.php(387): strrpos('', '.', -1)
+#1 C:\xampp\htdocs\terra\wp-content\plugins\revslider\includes\slide.class.php(2336): RevSliderFunctions->check_valid_image(false)
+#2 C:\xampp\htdocs\terra\wp-content\plugins\revslider\includes\slider.class.php(2278): RevSliderSlide->get_overview_image_attributes('gallery')
+#3 C:\xampp\htdocs\terra\wp-content\plugins\revslider\admin\includes\functions-admin.class.php(191): RevSliderSlider->get_overview_data()
+#4 C:\xampp\htdocs\terra\wp-content\plugins\revslider\admin\includes\functions-admin.class.php(126): RevSliderFunctionsAdmin->get_slider_overview()
+#5 C:\xampp\htdocs\terra\wp-content\plugins\revslider\admin\includes\shortcode_generator\shortcode_generator.class.php(214): RevSliderFunctionsAdmin->get_short_library()
+#6 C:\xampp\htdocs\terra\wp-content\plugins\revslider\admin\includes\shortcode_generator\shortcode_generator.class.php(22): RevSliderShortcodeWizard::add_scripts()
+#7 C:\xampp\htdocs\terra\wp-includes\class-wp-hook.php(292): RevSliderShortcodeWizard::enqueue_scripts('post.php')
+#8 C:\xampp\htdocs\terra\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\terra\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\terra\wp-admin\admin-header.php(102): do_action('admin_enqueue_s...', 'post.php')
+#11 C:\xampp\htdocs\terra\wp-admin\edit-form-advanced.php(425): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\terra\wp-admin\post.php(206): require('C:\\xampp\\htdocs...')
+#13 {main}
+  thrown en C:\xampp\htdocs\terra\wp-content\plugins\revslider\includes\functions.class.php en la línea 387
+

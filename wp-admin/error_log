@@ -1,0 +1,11 @@
+[12-Aug-2020 01:23:24 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[12-Aug-2020 01:28:04 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:28:04 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:28:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:28:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:28:34 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:28:46 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:29:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:29:16 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[12-Aug-2020 01:29:17 UTC] PHP Warning:  sprintf(): Too few arguments in /home/cawggsecq1xv/public_html/comunal.social/terra/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[26-Aug-2020 01:27:25 UTC] Error Table 'terra_sitio.posts' doesn't exist de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `posts` realizada por require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, NjtCf7Vc->registerAdminEnqueue, NjtCf7Vc->getCf7VCMainPost
