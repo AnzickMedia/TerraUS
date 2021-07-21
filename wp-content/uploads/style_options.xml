@@ -874,7 +874,7 @@
   </option>
   <option>
     <id>maple_show_primary_footer</id>
-    <value>off</value>
+    <value>on</value>
   </option>
   <option>
     <id>maple_footerbg_type</id>
@@ -886,7 +886,7 @@
   </option>
   <option>
     <id>maple_footerbg_color</id>
-    <value>191919</value>
+    <value>101010</value>
   </option>
   <option>
     <id>maple_footerbg_color_opacity</id>
@@ -906,11 +906,11 @@
   </option>
   <option>
     <id>maple_primary_footer_padding_top</id>
-    <value>80px</value>
+    <value>40px</value>
   </option>
   <option>
     <id>maple_primary_footer_padding_bottom</id>
-    <value>80px</value>
+    <value>40px</value>
   </option>
   <option>
     <id>maple_footerbg_linkscolor</id>
@@ -926,7 +926,7 @@
   </option>
   <option>
     <id>maple_show_sec_footer</id>
-    <value>on</value>
+    <value>off</value>
   </option>
   <option>
     <id>maple_sec_footerbg_type</id>

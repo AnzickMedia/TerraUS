@@ -274,7 +274,7 @@
   </option>
   <option>
     <id>maple_footer_number_cols</id>
-    <value>three</value>
+    <value>four</value>
   </option>
   <option>
     <id>maple_footer_columns_order</id>
@@ -286,7 +286,7 @@
   </option>
   <option>
     <id>maple_footer_full_width</id>
-    <value>on</value>
+    <value>off</value>
   </option>
   <option>
     <id>maple_footer_display_logo</id>
@@ -318,7 +318,7 @@
   </option>
   <option>
     <id>maple_footer_custom_text</id>
-    <value>&lt;p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"&gt;TERRA &#xA9; 2020, TODOS LOS DERECHOS RESERVADOS&lt;/p&gt;</value>
+    <value>&lt;p style=\"text-align: center\" data-mce-style=\"text-align: center;\"&gt;TERRA &#xA9; 2020, TODOS LOS DERECHOS RESERVADOS&lt;/p&gt;</value>
   </option>
   <option>
     <id>maple_footer_custom_text_alignment</id>
