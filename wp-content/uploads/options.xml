@@ -234,7 +234,7 @@
   </option>
   <option>
     <id>maple_enable_search</id>
-    <value>on</value>
+    <value>off</value>
   </option>
   <option>
     <id>maple_enable_ajax_search</id>
@@ -638,7 +638,27 @@
   </option>
   <option>
     <id>maple_custom_css</id>
-    <value></value>
+    <value>.wpcf7 input[type=\"text\"],.wpcf7 input[type=\"email\"] {&#xD;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,.2);&#xD;
+    color: black;&#xD;
+}&#xD;
+&#xD;
+.wpcf7 textarea {&#xD;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,.2);&#xD;
+    color: black;&#xD;
+}&#xD;
+&#xD;
+.wpcf7 label{&#xD;
+    font-weight: 500;&#xD;
+    font-size: 18px;&#xD;
+}&#xD;
+&#xD;
+.o-btn{&#xD;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,.2);&#xD;
+    font-weight: 800;&#xD;
+}&#xD;
+&#xD;
+</value>
   </option>
   <option>
     <id>maple_import_options</id>
