@@ -974,7 +974,7 @@
   </option>
   <option>
     <id>maple_links_font</id>
-    <value>Helvetica</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_links_size</id>
@@ -994,7 +994,7 @@
   </option>
   <option>
     <id>maple_p_font</id>
-    <value>Helvetica</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_p_size</id>
@@ -1006,7 +1006,7 @@
   </option>
   <option>
     <id>maple_h1_font</id>
-    <value>Helvetica Neue</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_h1_size</id>
@@ -1018,7 +1018,7 @@
   </option>
   <option>
     <id>maple_h2_font</id>
-    <value>Helvetica Neue</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_h2_size</id>
@@ -1030,7 +1030,7 @@
   </option>
   <option>
     <id>maple_h3_font</id>
-    <value>Helvetica Neue</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_h3_size</id>
@@ -1042,7 +1042,7 @@
   </option>
   <option>
     <id>maple_h4_font</id>
-    <value>Helvetica Neue</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_h4_size</id>
@@ -1054,7 +1054,7 @@
   </option>
   <option>
     <id>maple_h5_font</id>
-    <value>Helvetica Neue</value>
+    <value>Poppins|normal</value>
   </option>
   <option>
     <id>maple_h5_size</id>
@@ -1066,7 +1066,7 @@
   </option>
   <option>
     <id>maple_h6_font</id>
-    <value>Helvetica Neue</value>
+    <value>Alfa Slab One</value>
   </option>
   <option>
     <id>maple_h6_size</id>
